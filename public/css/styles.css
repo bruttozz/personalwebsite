@@ -22,6 +22,24 @@ h5 {
     font-family: "Apple Color Emoji";
 }
 
+#resume_objective_title {
+    margin-left: 100px;
+}
+
+#resume_objective_content {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#resume_education_title {
+    margin-left: 100px;
+}
+
+#resume_education_content {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
 #main {
     margin-top: 30px;
     margin-bottom: 30px;
