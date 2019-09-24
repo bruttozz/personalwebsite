@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/portfolio.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="40" column="137" selection-start-line="40" selection-start-column="137" selection-end-line="40" selection-end-column="137" />
+            <state relative-caret-position="463">
+              <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#3;n#!!top" expanded="true" />
@@ -40,6 +40,13 @@
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#4;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#pre#0;n#div#1;n#div#4;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#4;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#5;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#pre#0;n#div#1;n#div#5;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#5;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#pre#1;n#div#1;n#div#5;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#1;n#div#5;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#pre#2;n#div#1;n#div#5;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#1;n#div#5;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="615">
+              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -254,12 +261,12 @@
       <workItem from="1567692110445" duration="7615000" />
       <workItem from="1568820042287" duration="8834000" />
       <workItem from="1569124446479" duration="292000" />
-      <workItem from="1569203971878" duration="5949000" />
+      <workItem from="1569203971878" duration="9566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22690000" />
+    <option name="totallyTimeSpent" value="26307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -361,15 +368,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="615">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/portfolio.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="40" column="137" selection-start-line="40" selection-start-column="137" selection-end-line="40" selection-end-column="137" />
+        <state relative-caret-position="463">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#3;n#!!top" expanded="true" />
@@ -379,6 +386,13 @@
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#4;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#pre#0;n#div#1;n#div#4;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#pre#0;n#div#1;n#div#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#pre#1;n#div#1;n#div#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#pre#2;n#div#1;n#div#5;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#div#5;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
