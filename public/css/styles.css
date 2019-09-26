@@ -1,5 +1,5 @@
 h1 {
-    color: blue;
+    color: #c22946;
     text-align: center;
 }
 
@@ -10,6 +10,10 @@ h2 {
 
 h5 {
     color: #000;
+    text-align: center;
+}
+
+.gmap_canvas {
     text-align: center;
 }
 
