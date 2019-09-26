@@ -13,6 +13,18 @@ h5 {
     text-align: center;
 }
 
+#home_body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../image/road.jpg");
+}
+
+#portfolio_body {
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+
 .gmap_canvas {
     text-align: center;
 }
