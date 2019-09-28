@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="973f0f7f-ec09-4baf-aeb0-88e6a00bc505" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.handlebars" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="790" />
   </component>
   <component name="ProjectId" id="1RNWA7talRfveEOvyXefYTn7phi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -74,7 +70,8 @@
       <workItem from="1568820042287" duration="8834000" />
       <workItem from="1569124446479" duration="292000" />
       <workItem from="1569203971878" duration="10268000" />
-      <workItem from="1569507895879" duration="5928000" />
+      <workItem from="1569507895879" duration="6128000" />
+      <workItem from="1569640481950" duration="771000" />
     </task>
     <servers />
   </component>
@@ -86,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
